@@ -1,5 +1,5 @@
 fib_seq = [0,1]
-
+#expected input is positive integers
 stop_loop = int(input("how many numbers frob fibonacci sequence should I generate: " ))
 
 if stop_loop == 0:
